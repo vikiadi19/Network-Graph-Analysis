@@ -11,11 +11,11 @@ sys.version_info(major=3, minor=9, micro=7, releaselevel='final', serial=0)
 
 1. .ipynb: Network_graph_analysis.ipynb contains my working code. Single file contains code for all 3 tasks.
     * Task 1 - Extracting the posts from 2 subreddits: 
-        # UIUC
-        # fightingillini
+        * UIUC
+        * fightingillini
     * Task 2 - Using *DFS* to get comments of two posts heirarchially and write them in text files
-        # Post1 - wcsblz
-        # Post2 - sh7de5
+        * Post1 - wcsblz
+        * Post2 - sh7de5
     * Task 3 - Visualise those posts and their comments using NetworkX
 2. Output files: 
     * Task1_result.txt, output for task 1
